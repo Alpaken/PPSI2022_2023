@@ -142,6 +142,7 @@ blockquote {
 .navbar {
     background-color: #002b5b;
     color: #eeeee4;
+    overflow: hidden;
 }
 
 nav .navbar-nav .active {
