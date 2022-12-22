@@ -138,6 +138,9 @@ blockquote {
 }
 
 /* Navbar */
+.header {
+    overflow: hidden;
+}
 
 .navbar {
     background-color: #002b5b;
@@ -346,12 +349,12 @@ footer {
     color: white;
 }
 
-.leaveBox a{
+.leaveBox a {
     width: 40px;
     margin-right: 5px;
 }
 
-.leaveBox a:hover{
+.leaveBox a:hover {
     opacity: .80;
 }
 
